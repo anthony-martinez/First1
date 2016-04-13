@@ -17,6 +17,7 @@ for age in ages:
 print 'Total_age', Total_age
 print "Avg_age ", Total_age/len(ages)
 
+x esto es una prueba
 
 
 
